@@ -101,6 +101,7 @@
 - [Borrel7] (https://github.com/Borrel7)
 - [Suresh](https://github.com/sureshp820)
 - [Arya Hariharan](https://github.com/Arya-Hari)
+- [Utkarsh Raj](https://github.com/Garrur)
 - [Sachin Ghatage] (https://github.com/sachinghatage)
 - [Job Keter](https://github.com/CAPTAIN-JOB)
 - [Kaleb Mikiyas](https://github.com/coder-kaleb)
